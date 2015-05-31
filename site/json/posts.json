@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Extremo baixo custo",
+        "subtitulo": "Respondendo a eventos, seu custo cai absurdamente",
+        "conteudo": "Como o Lambda roda independente e durante um tempo de vida, voce nao precisa de uma infraestrutura para ter um gasto continuo."
+    },
+    {
+        "titulo": "Muito mais seguro",
+        "subtitulo": "Com o uso de ROLES, voce nao precisa mais se preocupar",
+        "conteudo": "Atraves de permissoes dadas diretamente entre os recursos da infraestrutura, voce nao precisa se preocupar em chaves de acesso ou usuarios e senhas inseridos dentro de codigos das suas aplicacoes"
+    },
+    {
+        "titulo": "Iot",
+        "subtitulo": "Agora sim vamos quebrar tudo",
+        "conteudo": "Com o Lambda, o uso da Internet das Coisas ira para um novo patamar, onde podemos ter nossa infraestrutura completamente integrada com nossos sensores e dispositos ao redor do mundo trabalhando como um organismo vivo."
+    }
+]
