@@ -58,4 +58,4 @@ AWS Lamba CMS is created and maintained by Jonathan Baraldi - jonathanbaraldi@gm
 
 ## Copyright and License
 
-Copyright 2015. Code released under the [Apache 2.0].
+Copyright 2015. Code released under the [GNU GENERAL PUBLIC LICENSE].
