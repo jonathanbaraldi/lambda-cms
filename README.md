@@ -23,6 +23,9 @@ Steps:
 	4 - Create Lambda function
 			Upload file.zip to your Lambda function
 			In this example, I used "lambdaCMS" as lambda function to be invoked.
+
+			IAM ROLE - S3 Access
+			In the Lambda Role inside IAM setup, you must attach the policy for Amazon S3 full access, in order of the Lambda function to write the JSON file.
 	
 	5 - Create IAM user to be authorized to update the website.
 			Give to this user permission only to execute invoke Lambda functions.
